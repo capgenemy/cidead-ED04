@@ -1,7 +1,6 @@
 /**
  * Clase Cuenta
  * 
- * @category Ejercicios
  * @author AITOR GÓMEZ
  * @version 1.0
  */
